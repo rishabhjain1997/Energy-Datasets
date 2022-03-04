@@ -1,0 +1,5 @@
+,Scenario1,Scenario2,Scenario3,Scenario4
+Scenario1,0.0,2961.51,748.55,3036.68
+Scenario2,2961.51,0.0,3243.67,618.63
+Scenario3,748.55,3243.67,0.0,2963.69
+Scenario4,3036.68,618.63,2963.69,0.0
